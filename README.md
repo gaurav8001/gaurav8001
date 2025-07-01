@@ -30,10 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-## 📊 GitHub Stats
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravbarwal&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbarwal&layout=compact&theme=radical)
 
 ## 🏆 Featured Projects
 
